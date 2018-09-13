@@ -1,0 +1,11 @@
+{
+  "name": "2.karma",
+  "version": "1.0.0",
+  "description": "karma example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shantanu",
+  "license": "ISC"
+}
